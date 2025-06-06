@@ -35,7 +35,7 @@ st.markdown(
 )
 
 # --- Header Image ---
-st.image("52c6bdf7-5c03-463b-8f15-16c9aadfb4e8.png", use_column_width=True)
+st.image("52c6bdf7-5c03-463b-8f15-16c9aadfb4e8.png.png", use_column_width=True)
 
 # --- Title and subtitle ---
 st.markdown('<div class="big-title">📞 Phone Number Geolocator</div>', unsafe_allow_html=True)
