@@ -5,7 +5,7 @@ from phonenumbers import geocoder
 st.set_page_config(page_title="Phone Number Geolocator", page_icon=":telephone_receiver:", layout="wide")
 
 # Banner image (replace with your actual filename as needed)
-st.image("A_flat-style_digital_illustration_banner_for_a_“Ph.png", use_container_width=True)
+st.image("phone_number_loatoro_banner.png", use_container_width=True)
 
 # Main title and subtitle (one header only, friendly and clear)
 st.markdown(
