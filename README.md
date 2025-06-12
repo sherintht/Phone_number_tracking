@@ -1,7 +1,3 @@
-# Phone_number_tracking
-<p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/phone_number_loatoro_banner.png" alt="Phone Number Geolocator Banner" width="700"/>
-</p>
 
 <h1 align="center">
   📞 Phone Number Geolocator 🌍
