@@ -72,7 +72,7 @@ Want to give it a spin on your machine? It's super easy!
 Simply type or paste phone numbers into the text area, making sure to include the country code (e.g., `+14155552671`, `+919544357866`). Click "Find Locations," and watch the magic happen!
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/screenshot_of_app_in_action.gif" alt="App in action" width="600"/>
+  <img src="https://github.com/sherintht/Phone_number_tracking/blob/main/Phone%20Number%20Geolocator%20%C2%B7%20Streamlit.gif" alt="App in action" width="600"/>
   <br>
-  <em>(Include a GIF or screenshot of your app in action here!)</em>
+  <em>( GIF app in action here!)</em>
 </p>
